@@ -2,7 +2,7 @@ var word;
 var allowedGuesses;
 var correctGuesses;
 var wrongGuesses;
-var words= ["game", "set", "match", "forehand", "wimbledon"];
+var words= ["backhand", "overhead", "winner", "forehand", "wimbledon"];
 var randomWord = words[Math.floor(Math.random() * words.length)];
 var gameScore = 0;
 var losses = 0;
