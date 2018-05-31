@@ -1,0 +1,42 @@
+body {
+    background-color:whitesmoke;
+    
+}
+
+.container {
+    margin-left: 16.5%;
+    border: 2px solid #dddddd;
+    padding: 15px;
+    width: 960px;
+    margin-top: 75px;
+    text-align: center;
+    background-image: url(../images/tennis-court.jpg);
+    height: 450px;
+    padding-top: 100px;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    word-spacing: 4px;
+    line-height: 27px;
+    color: black;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 45px;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.guesses, .guessed {
+    font-size: 25px;
+    line-height: 35px;
+    color: white;
+}
